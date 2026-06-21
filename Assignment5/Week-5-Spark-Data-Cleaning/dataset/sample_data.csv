@@ -1,0 +1,12 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,status,price,store_id,email,username,raw_timestamp
+101,2025-01-01,West,Electronics,500,Delhi,25,Premium,,100,1,test1@gmail.com,user1,2025-01-01 10:00:00
+101,2025-01-01,West,Electronics,500,Delhi,25,Premium,,100,1,test1@gmail.com,user1,2025-01-01 10:00:00
+102,2025-01-02,West,Furniture,300,Mumbai,29,Premium,Active,,2,test2@gmail.com,user2,2025-01-02 11:00:00
+103,2025-01-03,East,Electronics,700,Kolkata,17,Basic,,150,1,,user3,2025-01-03 12:00:00
+104,2025-01-04,West,Clothing,200,Delhi,30,Premium,,80,2,test4@gmail.com,,2025-01-04 09:00:00
+105,2025-01-05,West,Electronics,600,Delhi,28,Premium,Active,200,1,test5@gmail.com,user5,2025-01-05 08:00:00
+106,2025-01-06,South,Furniture,400,Chennai,22,Basic,,120,3,test6@gmail.com,user6,2025-01-06 07:00:00
+107,2025-01-07,West,Electronics,750,Delhi,26,Premium,,250,1,test7@gmail.com,user7,2025-01-07 14:00:00
+108,2025-01-08,North,Clothing,450,Jaipur,31,Basic,Active,,2,test8@gmail.com,user8,2025-01-08 15:00:00
+109,2025-01-09,West,Furniture,900,Mumbai,24,Premium,,300,2,,user9,2025-01-09 16:00:00
+110,2025-01-10,West,Electronics,650,Delhi,19,Premium,Active,180,1,test10@gmail.com,,2025-01-10 17:00:00
