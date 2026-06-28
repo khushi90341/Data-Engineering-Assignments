@@ -1,0 +1,9 @@
+product_id,category,price,old_name,status,amount,base_price,region,priority,user_id
+101,Electronics,25000,Laptop,Completed,25000,25000,North,High,1001
+102,Furniture,7000,Chair,Pending,7000,7000,South,Low,1002
+103,Electronics,12000,Phone,Completed,12000,12000,East,Medium,1003
+104,Electronics,900,Mouse,Completed,900,900,North,High,
+105,Clothing,2000,Shirt,Cancelled,2000,2000,West,Low,1005
+106,Electronics,18000,Tablet,Completed,18000,18000,North,Medium,1006
+107,Furniture,4500,Table,Completed,4500,4500,South,High,1007
+108,Electronics,35000,TV,Pending,35000,35000,East,High,1008
