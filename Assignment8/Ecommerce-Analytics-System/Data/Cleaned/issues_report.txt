@@ -1,0 +1,42 @@
+E-Commerce Data Cleaning Report
+========================================
+
+NULL customer_id found: 19
+Incorrect date format corrected: 22-03-2026 17:01:21
+Incorrect date format corrected: 01-06-2025 12:49:21
+Incorrect date format corrected: 23-11-2024 08:38:16
+Incorrect date format corrected: 27-01-2025 21:27:12
+Incorrect date format corrected: 14-05-2025 17:37:28
+Incorrect date format corrected: 11-01-2026 06:21:25
+Incorrect date format corrected: 15-07-2024 20:43:09
+Incorrect date format corrected: 30-06-2026 11:39:30
+Incorrect date format corrected: 16-10-2025 04:49:51
+Incorrect date format corrected: 07-02-2025 07:32:34
+Incorrect date format corrected: 17-05-2025 07:21:26
+Incorrect date format corrected: 19-05-2026 00:59:38
+Incorrect date format corrected: 31-03-2026 03:13:41
+Incorrect date format corrected: 18-07-2025 04:34:39
+Incorrect date format corrected: 28-03-2025 08:47:54
+Incorrect date format corrected: 12-03-2026 02:40:36
+Incorrect date format corrected: 13-05-2025 09:40:08
+Incorrect date format corrected: 02-06-2026 04:19:34
+Incorrect date format corrected: 07-02-2026 02:25:25
+Incorrect date format corrected: 31-01-2026 01:49:52
+Incorrect date format corrected: 17-01-2025 11:43:23
+Incorrect date format corrected: 09-03-2025 12:51:37
+Incorrect date format corrected: 10-02-2026 05:14:02
+Incorrect date format corrected: 18-12-2024 05:46:20
+Incorrect date format corrected: 09-02-2025 17:44:07
+Incorrect date format corrected: 09-07-2025 22:10:48
+Incorrect date format corrected: 01-07-2026 07:54:17
+Incorrect date format corrected: 27-09-2025 20:30:49
+Product names corrected: 46
+Invalid Emails Found: 6
+Invalid Order References: 0
+
+Invalid Customer IDs (Email): [np.int64(67), np.int64(149), np.int64(170), np.int64(174), np.int64(458), np.int64(493)]
+
+Invalid Order References:
+Empty DataFrame
+Columns: [order_item_id, order_id, product_id, quantity, unit_price, discount_percent]
+Index: []
